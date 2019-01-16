@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1547632505 source:/media/lenovo/DATA/cpp/Get inputan/main.cpp
+	<iostream>
+	<stdio.h>
+	<curses.h>
+	<string>
+	<stdlib.h>
+
+1547632542 source:/media/lenovo/DATA/cpp/BelajarCpp/main.cpp
+	<iostream>
+	<stdio.h>
+	<curses.h>
+	<string>
+	<stdlib.h>
+
